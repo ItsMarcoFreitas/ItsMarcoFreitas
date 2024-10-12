@@ -2,6 +2,7 @@
 Atualmente cursando analise e desenvolvimento de sistemas.
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imarcofreitas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-aur%C3%A9lio-b69796277/)
 
 
 ![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMarcoFreitas&show_icons=true&theme=radical)
