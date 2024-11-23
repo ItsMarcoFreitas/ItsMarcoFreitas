@@ -12,11 +12,8 @@
 
 ## Contatos
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](contato.marcofreitas@gmail.com)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/imarcofreitas)
-
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](contato.marcofreitas@gmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.linkedin.com/in/imarcofreitas)
 
 
 Apaixonado por técnologia e linguagens de programação, conhecimento muda o mundo!
