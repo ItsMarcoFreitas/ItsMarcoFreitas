@@ -1,8 +1,7 @@
 ![image](https://github.com/user-attachments/assets/3645442d-d7f9-46f9-9750-f5a557155a32)
 
 ![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMarcoFreitas&show_icons=true&theme=radical)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMarcoFreitas&layout=compact)
 ## Habilidades
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
