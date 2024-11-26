@@ -19,7 +19,7 @@ Apaixonado por técnologia e linguagens de programação, conhecimento muda o mu
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ItsMarcoFreitas&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
@@ -27,7 +27,7 @@ Apaixonado por técnologia e linguagens de programação, conhecimento muda o mu
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMarcoFreitas&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
