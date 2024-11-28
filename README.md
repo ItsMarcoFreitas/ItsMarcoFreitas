@@ -28,7 +28,7 @@ Apaixonado por técnologia e linguagens de programação, conhecimento muda o mu
       align="left" 
       alt="GitHub Stats" 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMarcoFrei&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMarcoFreitas&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 
